@@ -12,8 +12,8 @@ body {
   position: absolute;
   top: 20px;
   left: 20px;
-  width: 30vw;
-  max-width: 500px;
+  width: 40vw;
+  height: auto;
   z-index: 5;
 }
 
@@ -150,5 +150,6 @@ button {
   z-index: 999;
 
 }
+
 
 
