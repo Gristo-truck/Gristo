@@ -276,4 +276,7 @@ saveAdmin.addEventListener("click", () => {
   });
   alert("تم حفظ التعديلات ✅");
   drawWheel(); // إعادة رسم العجلة بالقيم الجديدة
+
+  // ✅ إخفاء لوحة التحكم بعد الحفظ
+  adminPanel.classList.add("hidden");
 });
