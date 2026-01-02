@@ -279,4 +279,6 @@ saveAdmin.addEventListener("click", () => {
 
   // ✅ إخفاء لوحة التحكم بعد الحفظ
   adminPanel.classList.add("hidden");
+  
 });
+
