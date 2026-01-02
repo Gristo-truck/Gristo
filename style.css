@@ -22,7 +22,7 @@ body {
   display: inline-block;
   margin-top: 80px;
   width: 80vw;
-  max-width: 800px;
+  max-width: 1200px;
 }
 
 #wheel {
@@ -148,4 +148,5 @@ button {
   height: 100%;
   pointer-events: none;
   z-index: 999;
+
 }
